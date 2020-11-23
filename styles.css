@@ -181,4 +181,10 @@ img {
 @media (min-width: 481px) and (max-width: 768px) {
 	
 }
+@media (max-width: 480){
+.columnWrapper, .main, .sidebar1, .sidebar2{
+	float: none;
+	width: auto;
+}
+}
 
