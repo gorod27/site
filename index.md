@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
 <title>Большая книга CSS</title>
-<link href="styles.css" rel="stylesheet">
+<link href="https://github.com/gorod27/site/blob/main/styles.css" rel="stylesheet">
 </head>
 
 <body>
